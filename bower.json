@@ -12,6 +12,7 @@
   ],
   "dependencies": {
     "purescript-console": "^0.1.0",
-    "purescript-thermite": "~0.10.1"
+    "purescript-thermite": "~0.10.1",
+    "react": "~0.13.3"
   }
 }

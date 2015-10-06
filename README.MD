@@ -7,3 +7,4 @@ $ cat > index.html
 $ pulp server
 
 $ pulp dep install --save purescript-thermite
+$ pulp dep install --save react
